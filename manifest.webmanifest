@@ -1,0 +1,10 @@
+{
+  "name": "SOLAR DESIGN PRO",
+  "short_name": "Solar Design",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f6f4",
+  "theme_color": "#102b24",
+  "description": "Kalkilatè dimensionnement sistèm solè an Kreyòl",
+  "icons": []
+}
