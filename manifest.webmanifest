@@ -1,10 +1,17 @@
 {
   "name": "SOLAR DESIGN PRO",
-  "short_name": "Solar Design",
+  "short_name": "Solar Pro",
+  "description": "Kalkil pwofesyonèl pou konsepsyon sistèm solè",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#f3f6f4",
-  "theme_color": "#102b24",
-  "description": "Kalkilatè dimensionnement sistèm solè an Kreyòl",
-  "icons": []
+  "background_color": "#064e3b",
+  "theme_color": "#064e3b",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://w3.org' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='100' fill='%23064e3b'/%3E%3Ccircle cx='256' cy='256' r='110' fill='%23fbbf24'/%3E%3Cg stroke='%23fbbf24' stroke-width='28' stroke-linecap='round'%3E%3Cline x1='256' y1='60' x2='256' y2='105'/%3E%3Cline x1='256' y1='407' x2='256' y2='452'/%3E%3Cline x1='60' y1='256' x2='105' y2='256'/%3E%3Cline x1='407' y1='256' x2='452' y2='256'/%3E%3Cline x1='117' y1='117' x2='149' y2='149'/%3E%3Cline x1='363' y1='363' x2='395' y2='395'/%3E%3Cline x1='395' y1='117' x2='363' y2='149'/%3E%3Cline x1='149' y1='363' x2='117' y2='395'/%3E%3C/g%3E%3C/svg%3E",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
 }
